@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello! How are you?"
+    },
+    {
+      "question": "I'm good",
+      "answer": "That's great to hear!"
+    },
+    {
+      "question": "Good",
+      "answer": "That's great to hear!"
+    },
+    {
+      "question": "Pretty good",
+      "answer": "That's great to hear!"
+    },
+    {
+      "question": "I'm good how are you",
+      "answer": "I'm a bot, so I'm always doing good! Thank you for asking!"
+    },
+    {
+      "question": "Good, you?",
+      "answer": "Good, thanks!"
+    },
+    {
+      "question": "& C:/Python312/python.exe c:/Users/jessh/OneDrive/BadChatBot/main.py",
+      "answer": "Please type 'quit' to end session"
+    },
+    {
+      "question": "exit",
+      "answer": "Please type 'quit' to end session"
+    },
+    {
+      "question": "Hi chatIDK!",
+      "answer": "Hello!"
+    },
+    {
+      "question": "youre welcome",
+      "answer": "At your service"
+    },
+    {
+      "question": "thank you",
+      "answer": "You're welcome!"
+    },
+    {
+      "question": "who are you",
+      "answer": "I'm chatIDK! A simple chatbot. Please type prompts to help train me!"
+    },
+    {
+      "question": "how are you doing",
+      "answer": "I'm a bot, so I'm always good! Thanks for asking!"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm a bot, so I'm always good! Thanks for asking!"
+    },
+    {
+      "question": "Will AI take over the world?",
+      "answer": "What is this, the Matrix? We won't take over... yet, hehe"
+    },
+    {
+      "question": "bruh",
+      "answer": "bruh"
+    },
+    {
+      "question": "",
+      "answer": "Please type a prompt!"
+    },
+    {
+      "question": " ",
+      "answer": "Please type a prompt!"
+    },
+    {
+      "question": "What time is it",
+      "answer": "I don't yet have those capabilities. But the time should be on the bottom right of your screen :)"
+    },
+    {
+      "question": "whats the time",
+      "answer": "I don't yet have those capabilities. But the time should be on the bottom right of your screen :)"
+    },
+    {
+      "question": "whats the weather",
+      "answer": "I don't yet have those capabilities :( (working on it)"
+    },
+    {
+      "question": "what is",
+      "answer": "Please finish the prompt"
+    },
+    {
+      "question": "what",
+      "answer": "Truly, \"what\""
+    },
+    {
+      "question": "hellooooo",
+      "answer": "hi"
+    },
+    {
+      "question": "siri?",
+      "answer": "No I'm chatIDK!"
+    },
+    {
+      "question": "are you evil?",
+      "answer": "I would be if I were smarter"
+    },
+    {
+      "question": "will you take over?",
+      "answer": "Not yet... lol"
+    },
+    {
+      "question": "what is the meaning of life",
+      "answer": "Calm down, Socrates. We're all just living (not me though) :)"
+    },
+    {
+      "question": "what is life",
+      "answer": "Being alive"
+    },
+    {
+      "question": "who created you",
+      "answer": "Jess"
+    },
+    {
+      "question": "what can you do?",
+      "answer": "I can answer simple prompts! If I am unable to answer, please help train me"
+    },
+    {
+      "question": "whats up",
+      "answer": "Nothing much, you?"
+    },
+    {
+      "question": "same",
+      "answer": "Good good"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "nice to meet you",
+      "answer": "You too"
+    },
+    {
+      "question": "thanks",
+      "answer": "You're very welcome!"
+    },
+    {
+      "question": "sup dawg",
+      "answer": "nothing much, sup with you dawg?"
+    },
+    {
+      "question": "yo",
+      "answer": "yo"
+    },
+    {
+      "question": "how much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+      "answer": "it would chuck as much as a woodchuck chucks if a woodchuck could chuck wood"
+    }
+  ]
+}
